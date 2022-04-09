@@ -9,7 +9,7 @@ I'm a backend and automator developer.
 
 [Bromo](https://pypi.org/project/bromo/) Python library Creator
 
-👨🏼‍🏫 - My Skills are: with Python: Selenium, BealtifullSoap, Pandas, Flask and more. Already with PHP, i use a FrameWork called modulePHP.
+👨🏼‍🏫 - My Skills are: with Python: Selenium, Beautiful Soup, Pandas, Flask and more. Already with PHP, i use a FrameWork called modulePHP.
 
 - [Website](https://coelhobranco.com.br/) 💻 - Working on it.
 <!--
