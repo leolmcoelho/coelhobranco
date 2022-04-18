@@ -12,6 +12,7 @@ I'm a backend and automator developer.
 👨🏼‍🏫 - My Skills are: with Python: Selenium, Beautiful Soup, Pandas, Flask and more. Already with PHP, i use a FrameWork called modulePHP.
 
 - [Website](https://coelhobranco.com.br/) 💻 - Working on it.
+- [Personal Website](https://coelhobranco.github.io/personal-site/) 💻 
 <!--
 **CoelhoBranco/coelhobranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
