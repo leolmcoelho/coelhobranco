@@ -5,14 +5,14 @@
 
 
 ### About me
-I'm a backend and automator developer.
+I'm a Web Full Stack Developer.
 
 [Bromo](https://pypi.org/project/bromo/) Python library Creator
 
-👨🏼‍🏫 - My Skills are: with Python: Selenium, Beautiful Soup, Pandas, Flask and more. Already with PHP, i use a FrameWork called modulePHP.
+👨🏼‍🏫 - My Skills are: with Python: Selenium, Beautiful Soup, Pandas, Flask and more. Already with PHP, i use a FrameWork called [modulePHP](https://github.com/duxtec/ModulePHP).
 
-- [Website](https://coelhobranco.com.br/) 💻 - Working on it.
-- [Personal Website](https://coelhobranco.github.io/personal-site/) 💻 
+- [Website](https://coelhobranco.com.br/) 💻 - Working on it. [Temporarily Inactive]
+- [Personal Website](https://coelhobranco.github.io/personal-site/) 💻 [Temporarily Inactive]
 <!--
 **CoelhoBranco/coelhobranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
